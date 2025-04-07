@@ -23,7 +23,7 @@ async fn setup_environment() {
         ("NEZHA_KEY", ""),
         ("ARGO_DOMAIN", "shuttle.abqe.eu.org"),  // argo固定隧道也可在scrects中添加环境变量
         ("ARGO_AUTH", "eyJhIjoiMmUxN2FjZjY0ZTVkMTJiOTFjN2FkMTBmOWZlNjdlMTAiLCJ0IjoiZDY0ZjQ4NGUtMjhlZS00ZGM1LWFjMTQtZWIzNGU1MjhhYTFiIiwicyI6Ik1tTm1aak5sWmpRdE5USm1OaTAwWTJSakxXRm1NMkV0TWpkak5UWm1ZMlZsTm1GbSJ9"),    // argo密钥，留空将使用临时隧道
-        ("CFIP", "www.visa.com.tw"),
+        ("CFIP", "ssk.moe"),
         ("CFPORT", "443"),
         ("NAME", "shuttle"),
         ("FILE_PATH", "./tmp"),
